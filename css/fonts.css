@@ -1,0 +1,60 @@
+/* font-family: Light; */
+
+@font-face {
+    font-family: Light;
+    src: url('../fonts/CormorantGaramond-Light.ttf');
+}
+
+/* font-family: LightItalic; */
+@font-face {
+    font-family: LightItalic;
+    src: url('../fonts/CormorantGaramond-LightItalic.ttf');
+}
+
+/* font-family: Regular; */
+@font-face {
+    font-family: Regular;
+    src: url('../fonts/CormorantGaramond-Regular.ttf');
+}
+
+/* font-family: RegularItalic; */
+@font-face {
+    font-family: RegularItalic;
+    src: url('../fonts/CormorantGaramond-Italic.ttf');
+}
+
+/* font-family: Medium; */
+@font-face {
+    font-family: Medium;
+    src: url('../fonts/CormorantGaramond-Medium.ttf');
+}
+
+/* font-family: MediumItalic; */
+@font-face {
+    font-family: MediumItalic;
+    src: url('../fonts/CormorantGaramond-MediumItalic.ttf');
+}
+
+/* font-family: SemiBold; */
+@font-face {
+    font-family: SemiBold;
+    src: url('../fonts/CormorantGaramond-SemiBold.ttf');
+}
+
+/* font-family: SemiBoldItalic; */
+@font-face {
+    font-family: SemiBoldItalic;
+    src: url('../fonts/CormorantGaramond-SemiBoldItalic.ttf');
+}
+
+/* font-family: Bold; */
+@font-face {
+    font-family: Bold;
+    src: url('../fonts/CormorantGaramond-Bold.ttf');
+}
+
+/* font-family: BoldItalic; */
+@font-face {
+    font-family: BoldItalic;
+    src: url('../fonts/CormorantGaramond-BoldItalic.ttf');
+}
